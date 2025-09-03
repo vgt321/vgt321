@@ -37,4 +37,4 @@ Período: 2º semestre
 ## 🌍 Contato  
 📧 Email: *[vyctorgmachado@gmail.com]*  
 🔗 GitHub: [github.com/vgt321](https://github.com/seu-usuario)  
-💼 LinkedIn: *[seu LinkedIn]*  
+💼 LinkedIn: *[www.linkedin.com/in/vyctor-torres-016601355]*  

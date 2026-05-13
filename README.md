@@ -34,7 +34,7 @@ Meu objetivo é crescer como desenvolvedor e contribuir em projetos que façam d
 
 ## 📚 Formação  
 🎓 **Bacharelado em Engenharia de Software**   
-Período: 2º semestre  
+Período: 3º semestre  
 
 ---
 

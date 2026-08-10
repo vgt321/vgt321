@@ -1,7 +1,7 @@
 # 👨‍💻 Vyctor Gabriel  
 
 🎯 **Estudante de Engenharia de Software**  
-📚 Atualmente no **3°periodo**
+📚 Atualmente no **4°periodo**
 💡 Apaixonado por tecnologia, desenvolvimento de sistemas e boas práticas de programação.  
 
 
